@@ -23,6 +23,7 @@ elif average >= 70:
     
 elif average >= 60:
     grade = "B+"
+    
 elif average >= 50:
     grade = "D"
 else:
