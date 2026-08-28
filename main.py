@@ -9,6 +9,7 @@ for subject in subjects:
     marks.append(mark)
 total = sum(marks)
 average = total / len(marks)
+
 if average >= 90:
     grade = "A+"
 elif average >= 80:
