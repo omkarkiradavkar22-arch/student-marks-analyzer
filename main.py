@@ -4,6 +4,7 @@ import os
 name = input("Enter student full name: ")
 subjects = ["Python", "Database", "Maths", "English", "Computer" ]
 marks = []
+
 for subject in subjects:
     mark = float (input(f"Enter marks for {subjects}: "))
     marks.append(mark)
