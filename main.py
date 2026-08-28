@@ -14,6 +14,7 @@ average = total / len(marks)
 
 if average >= 90:
     grade = "A+"
+    
 elif average >= 80:
     grade = "A"
 elif average >= 70:
