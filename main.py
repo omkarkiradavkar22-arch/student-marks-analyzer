@@ -17,6 +17,7 @@ if average >= 90:
     
 elif average >= 80:
     grade = "A"
+    
 elif average >= 70:
     grade = "B"
 elif average >= 60:
