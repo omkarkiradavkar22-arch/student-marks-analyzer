@@ -22,6 +22,7 @@ elif average >= 50:
     grade = "D"
 else:
     grade = "F"
+    
 result = "PASS" if average >= 40 else "FAIL"
 print(f"Student Name :  {name}")
 print(f"Total Marks  :  {total}")
